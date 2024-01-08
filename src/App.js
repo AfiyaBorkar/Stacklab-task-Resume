@@ -4,7 +4,7 @@ import pic from "./assests/profile_pic.jpeg";
 
 function App() {
   return (
-    <div className="containermain">
+   
     <div className="App">
       <div className="container">
         <div className="sidebar">
@@ -116,7 +116,7 @@ function App() {
         </div>
       </div>
     </div>
-    </div>
+   
   );
 }
 
